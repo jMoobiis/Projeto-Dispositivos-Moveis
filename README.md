@@ -1,16 +1,7 @@
-# projeto_dispositivos_mov
+# PROJETO_DISPOSITIVOS_MOVEIS_FLUXO_DE_BAR
 
-A new Flutter project.
+Objetivo: Desenvolver um aplicativo multiplataforma de acordo com o tema de sua preferência.
 
-## Getting Started
+Tema: Um aplicativo para Bares e Restaurantes visando melhorar o fluxo de atendimentos dos garçons.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
